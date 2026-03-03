@@ -1,4 +1,4 @@
-var CACHE = 'brookline-v2-2';
+var CACHE = 'brookline-v2-3';
 var ASSETS = [
   './',
   'index.html',
